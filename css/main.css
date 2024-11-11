@@ -1,0 +1,23 @@
+.item{
+    width: 100px;
+    height: 100px;
+}
+
+.item-1{
+    background: #d70606;
+}
+.item-2{
+    background: #dce705;
+}
+.item-3{
+    background: #f506e1;
+}
+
+
+main{
+    width: 600px;
+    height: 600px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+}
